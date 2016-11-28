@@ -36,8 +36,8 @@
       <file leaf-file-name="test_label.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_label.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="166">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -681,12 +681,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_label_py - 2016.11.28 at 23h 47m 18s.xml">
-      <configuration name="py.test in test_label.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_label_py - 2016.11.29 at 00h 01m 12s.xml">
-      <configuration name="py.test in test_label.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test_label_py - 2016.11.29 at 00h 02m 13s.xml">
       <configuration name="py.test in test_label.py" configurationId="tests" />
     </history-entry>
@@ -709,6 +703,12 @@
       <configuration name="py.test in test_label.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test_label_py - 2016.11.29 at 00h 19m 59s.xml">
+      <configuration name="py.test in test_label.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_label_py - 2016.11.29 at 00h 22m 26s.xml">
+      <configuration name="py.test in test_label.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_label_py - 2016.11.29 at 00h 22m 56s.xml">
       <configuration name="py.test in test_label.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -1036,8 +1036,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_label.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="166">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
