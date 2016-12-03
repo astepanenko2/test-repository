@@ -28,11 +28,30 @@ def test_menu(driver):
     list = driver.find_element_by_css_selector("[name=countries_form]")
     countries = list.find_elements_by_class_name('row')
     country_names = []
-    for country_row in countries:
+    idx = 0
+    while idx < len(countries):
+        list = driver.find_element_by_css_selector("[name=countries_form]")
+        countries = list.find_elements_by_class_name('row')
+        country_row = countries[idx]
         name = country_row.find_elements_by_tag_name('td')[4].get_attribute("textContent")
         country_names.append(name)
+        zones = int(country_row.find_elements_by_tag_name('td')[5].get_attribute("textContent"))
+        if zones > 0:
+            country_row.find_elements_by_tag_name('td')[4].find_element_by_tag_name("a").click()
+            time.sleep(2)
+            child_country_names = []
+            child_list = driver.find_element_by_id("table-zones").find_elements_by_tag_name("tr")
+
+            for child_row in child_list[1:-1]:
+                child_name = child_row.find_elements_by_tag_name('td')[2].get_attribute("textContent")
+                child_country_names.append(child_name)
+            print(child_country_names)
+            sorted_child_list = sorted(child_country_names)
+            assert child_country_names == sorted_child_list
+            driver.back()
+        idx += 1
+    print(country_names)
     sorted_list = sorted(country_names)
     assert country_names == sorted_list
-    # for i in range(len(countries)):
-    #     assert countries[i] == sorted_list[i]
+
 

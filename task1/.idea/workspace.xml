@@ -24,8 +24,8 @@
       <file leaf-file-name="test_side_menu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_side_menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="30" column="52" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="250">
+              <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -36,8 +36,8 @@
       <file leaf-file-name="test_alphabet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_alphabet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -692,40 +692,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 19h 57m 53s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 25m 41s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 06m 18s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 29m 49s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 07m 25s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 33m 18s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 08m 02s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 34m 33s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 10m 31s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 34m 56s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 11m 08s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 35m 52s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 25m 46s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 36m 39s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 26m 19s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 37m 23s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 31m 31s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 38m 55s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 20h 33m 44s.xml">
+    <history-entry file="py_test_in_test_alphabet_py - 2016.12.03 at 21h 40m 23s.xml">
       <configuration name="py.test in test_alphabet.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -734,7 +734,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48031497" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48031497" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -981,16 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_side_menu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="52" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_label.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102">
@@ -999,10 +989,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_side_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_alphabet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
