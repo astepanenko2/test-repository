@@ -45,12 +45,10 @@ def test_menu(driver):
             for child_row in child_list[1:-1]:
                 child_name = child_row.find_elements_by_tag_name('td')[2].get_attribute("textContent")
                 child_country_names.append(child_name)
-            print(child_country_names)
             sorted_child_list = sorted(child_country_names)
             assert child_country_names == sorted_child_list
             driver.back()
         idx += 1
-    print(country_names)
     sorted_list = sorted(country_names)
     assert country_names == sorted_list
 
