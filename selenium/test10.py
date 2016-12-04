@@ -26,35 +26,48 @@ def test_menu(driver):
     print(item.get_attribute("title"))
     link = item.get_attribute("href")
     name_on_main = item.get_attribute("title")
+
     price_on_main_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s").get_attribute("textContent")
     price_on_main_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong").get_attribute("textContent")
+    font_size_on_main_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s").value_of_css_property("font-size")
+    color_on_main_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s").value_of_css_property("color")
+    text_decoration_on_main_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s").value_of_css_property("text-decoration")
+    font_size_on_main_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong").value_of_css_property("font-size")
+    color_on_main_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong").value_of_css_property("color")
+    text_decoration_on_main_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong").value_of_css_property("font-weight")
     item.click()
     WebDriverWait(driver, 2).until(EC.title_is(u"Yellow Duck | Subcategory | Rubber Ducks | My Store"))
-    print(driver.current_url)
-    print(link)
-    print(price_on_main_regular)
-    print(price_on_main_campaign)
+
     assert driver.current_url == link
+    assert float(font_size_on_main_campaign[:-2]) > float(font_size_on_main_regular[:-2])
+    assert color_on_main_regular == "rgba(119, 119, 119, 1)"
+    assert color_on_main_campaign == "rgba(204, 0, 0, 1)"
+    assert text_decoration_on_main_regular == "line-through"
+    assert text_decoration_on_main_campaign == "bold"
 
     product_name = driver.find_element_by_xpath("//div[@id='box-product']//div//h1")
     name_opened = product_name.get_attribute("textContent")
-    print(name_on_main)
-    print(name_opened)
     assert name_opened == name_on_main
 
-    product_price_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s")
-    price_regular = product_price_regular.get_attribute("textContent")
-    print(price_regular)
-    print(price_on_main_regular)
+    product_regular = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//s")
+    price_regular = product_regular.get_attribute("textContent")
+    font_size_regular = product_regular.value_of_css_property("font-size")
+    color_regular = product_regular.value_of_css_property("color")
+    text_decoration_regular = product_regular.value_of_css_property("text-decoration")
     assert price_regular == price_on_main_regular
+    assert text_decoration_regular == "line-through"
+    assert color_regular == "rgba(102, 102, 102, 1)"
 
-    product_price_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong")
-    price_campaign = product_price_campaign.get_attribute("textContent")
-    print(price_campaign)
-    print(product_price_campaign)
+    product_campaign = driver.find_element_by_xpath("//div[contains(@class, 'price-wrapper')]//strong")
+    price_campaign = product_campaign.get_attribute("textContent")
+    font_size_campaign = product_campaign.value_of_css_property("font-size")
+    color_campaign = product_campaign.value_of_css_property("color")
+    text_decoration_campaign = product_campaign.value_of_css_property("font-weight")
     assert price_campaign == price_on_main_campaign
+    assert font_size_campaign > font_size_regular
+    assert text_decoration_campaign == "bold"
+    assert color_campaign == "rgba(204, 0, 0, 1)"
 
-    element.value_of_css_property(property_name)
 
 
 
