@@ -60,7 +60,7 @@
       <file leaf-file-name="test11_register.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test11_register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="221">
               <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -713,12 +713,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 02m 21s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 03m 53s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 05m 02s.xml">
       <configuration name="py.test in test11_register.py" configurationId="tests" />
     </history-entry>
@@ -741,6 +735,12 @@
       <configuration name="py.test in test11_register.py" configurationId="tests" />
     </history-entry>
     <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 14m 22s.xml">
+      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 17m 49s.xml">
+      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 18m 15s.xml">
       <configuration name="py.test in test11_register.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -1147,7 +1147,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test11_register.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
+        <state relative-caret-position="221">
           <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />

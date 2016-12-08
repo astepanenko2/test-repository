@@ -25,7 +25,7 @@ def test_menu(driver):
     driver.find_element_by_name("address1").send_keys("shulyavka")
     driver.find_element_by_name("postcode").send_keys("04112")
     driver.find_element_by_name("city").send_keys("Kyiv")
-    driver.find_element_by_name("email").send_keys("for19page@gmail.com")
+    driver.find_element_by_name("email").send_keys("for21page@gm.com")
     driver.find_element_by_name("phone").send_keys("+380501234567")
     driver.find_element_by_name("password").send_keys("12345678")
     driver.find_element_by_name("confirmed_password").send_keys("12345678")
@@ -37,7 +37,7 @@ def test_menu(driver):
 
     driver.find_element_by_css_selector("td.account").find_element_by_tag_name("nav").find_element_by_css_selector("ul.list-vertical").find_elements_by_tag_name("li")[3].find_element_by_tag_name("a").click()
     WebDriverWait(driver, 10).until(EC.title_is(u"Login | My Store"))
-    driver.find_element_by_name("email").send_keys("for19page@gmail.com")
+    driver.find_element_by_name("email").send_keys("for21page@gm.com")
     driver.find_element_by_name("password").send_keys("12345678")
     driver.find_element_by_name("login").click()
     WebDriverWait(driver, 10).until(EC.title_is(u"Online Store | My Store"))
