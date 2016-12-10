@@ -24,7 +24,7 @@
       <file leaf-file-name="test_side_menu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_side_menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="109">
               <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="test_alphabet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_alphabet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="46" column="35" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="35" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -48,8 +48,8 @@
       <file leaf-file-name="test10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="102" />
+            <state relative-caret-position="221">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -57,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test11_register.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test11_register.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test11_register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+            <state relative-caret-position="-85">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="63" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -72,8 +72,20 @@
       <file leaf-file-name="test_alphabet2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="403">
               <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+              <folding>
+                <element signature="e#17#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test12_add_duck.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -111,6 +123,7 @@
         <option value="$PROJECT_DIR$/test_alphabet.py" />
         <option value="$PROJECT_DIR$/test10.py" />
         <option value="$PROJECT_DIR$/test11_register.py" />
+        <option value="$PROJECT_DIR$/test12_add_duck.py" />
       </list>
     </option>
   </component>
@@ -145,8 +158,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,31 +196,7 @@
       <recent name="C:\Users\1\Documents\GitHub\test-repository\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test11_register.py">
-    <configuration default="false" name="py.test in test_label.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="task1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/test_label.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test12_add_duck.py">
     <configuration default="false" name="py.test in test_alphabet.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,6 +287,30 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/test11_register.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test12_add_duck.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="task1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test12_add_duck.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
@@ -683,19 +696,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_label.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet2.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet2.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet2.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_label.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet2.py" />
       </list>
     </recent_temporary>
   </component>
@@ -713,40 +726,40 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 05m 02s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 48m 30s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 05m 26s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 49m 27s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 07m 31s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 50m 05s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 09m 28s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 52m 01s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 09m 44s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 53m 11s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 10m 14s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 56m 57s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 13m 21s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 57m 48s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 14m 22s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 59m 13s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 17m 49s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 17h 59m 46s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test11_register_py - 2016.12.08 at 23h 18m 15s.xml">
-      <configuration name="py.test in test11_register.py" configurationId="tests" />
+    <history-entry file="py_test_in_test12_add_duck_py - 2016.12.10 at 18h 00m 31s.xml">
+      <configuration name="py.test in test12_add_duck.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -754,12 +767,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46299213" sideWeight="0.50292826" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46299213" sideWeight="0.49707174" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46299213" sideWeight="0.49707174" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12298682" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -812,6 +825,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_alphabet.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="102" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test11_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_side_menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
@@ -844,9 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="75" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,9 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,9 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1091,7 +1145,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,26 +1152,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="75" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_alphabet.py">
+    <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="102" />
+        <state relative-caret-position="403">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
@@ -1127,7 +1167,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_side_menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="109">
           <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
@@ -1135,10 +1175,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
+    <entry file="file://$PROJECT_DIR$/test10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="221">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
@@ -1147,8 +1187,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test11_register.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state relative-caret-position="-85">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="63" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_alphabet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="35" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
