@@ -24,7 +24,7 @@
       <file leaf-file-name="test_side_menu.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_side_menu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="561">
               <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -36,7 +36,7 @@
       <file leaf-file-name="test10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="578">
               <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="test11_register.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test11_register.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="272">
               <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="63" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -60,7 +60,7 @@
       <file leaf-file-name="test_alphabet2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="459">
               <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -72,8 +72,8 @@
       <file leaf-file-name="test12_add_duck.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="116" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="79" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -84,7 +84,7 @@
       <file leaf-file-name="test_alphabet.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_alphabet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="646">
               <caret line="44" column="39" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="39" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
@@ -93,11 +93,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test13_cart.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test13_cart.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test13_cart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+            <state relative-caret-position="301">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="45" />
+              <folding>
+                <element signature="e#17#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test14_new_tab.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test14_new_tab.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -137,6 +149,7 @@
         <option value="$PROJECT_DIR$/test11_register.py" />
         <option value="$PROJECT_DIR$/test12_add_duck.py" />
         <option value="$PROJECT_DIR$/test13_cart.py" />
+        <option value="$PROJECT_DIR$/test14_new_tab.py" />
       </list>
     </option>
   </component>
@@ -172,7 +185,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,6 +205,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -209,31 +222,7 @@
       <recent name="C:\Users\1\Documents\GitHub\test-repository\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test13_cart.py">
-    <configuration default="false" name="py.test in test_alphabet.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="task1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/test_alphabet.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test14_new_tab.py">
     <configuration default="false" name="py.test in test10.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,6 +313,30 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/test13_cart.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test14_new_tab.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="task1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test14_new_tab.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
@@ -709,19 +722,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_alphabet.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test10.py" />
       </list>
     </recent_temporary>
   </component>
@@ -739,39 +752,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 50m 47s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 10m 09s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 53m 25s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 10m 47s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 54m 20s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 11m 49s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 55m 18s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 15m 12s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 57m 54s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 16m 02s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.10 at 23h 58m 53s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 16m 55s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.11 at 00h 00m 30s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 23m 22s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.11 at 00h 01m 50s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 32m 30s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.11 at 00h 07m 54s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 33m 33s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test13_cart_py - 2016.12.11 at 00h 09m 27s.xml">
-      <configuration name="py.test in test13_cart.py" configurationId="tests" />
+    <history-entry file="py_test_in_test14_new_tab_py - 2016.12.11 at 23h 34m 15s.xml">
+      <configuration name="py.test in test14_new_tab.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -826,16 +839,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_side_menu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_alphabet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1163,7 +1166,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_alphabet2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="459">
           <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
@@ -1173,7 +1176,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test11_register.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="272">
           <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="63" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
@@ -1183,18 +1186,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="578">
           <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="116" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
@@ -1203,7 +1196,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_side_menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
+        <state relative-caret-position="561">
           <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
@@ -1213,7 +1206,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_alphabet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="646">
           <caret line="44" column="39" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="39" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
@@ -1225,14 +1218,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="191" column="0" selection-start-line="191" selection-start-column="0" selection-end-line="191" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="79" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test13_cart.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
+        <state relative-caret-position="301">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="45" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test14_new_tab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
