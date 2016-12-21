@@ -33,7 +33,7 @@ def test_menu(driver):
         duck_list = driver.find_elements_by_xpath("//table[contains(@class, 'dataTable')]//tr[contains(@class, 'row')]")
         duck = duck_list[idx]
         duck.find_element_by_xpath("td[3]//a").click()
-        
+
         log_browser = driver.get_log("browser")
         print(log_browser)
 

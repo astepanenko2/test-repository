@@ -72,11 +72,21 @@
       <file leaf-file-name="test13_cart.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test13_cart.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="284">
+              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="48" selection-end-column="63" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test19_po.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test19_po.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="98" column="34" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test17_log.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test17_log.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test17_log.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -139,6 +149,7 @@
         <option value="$PROJECT_DIR$/test13_cart.py" />
         <option value="$PROJECT_DIR$/test14_new_tab.py" />
         <option value="$PROJECT_DIR$/test17_log.py" />
+        <option value="$PROJECT_DIR$/test19_po.py" />
       </list>
     </option>
   </component>
@@ -208,34 +219,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1\Documents\GitHub\test-repository\selenium" />
       <recent name="C:\Users\1\Documents\GitHub\test-repository\task1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test17_log.py">
-    <configuration default="false" name="py.test in test11_register.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="task1" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/test11_register.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test in test19_po.py">
     <configuration default="false" name="py.test in test12_add_duck.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,6 +314,30 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/test17_log.py" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test19_po.py" type="tests" factoryName="py.test" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="task1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="$PROJECT_DIR$/test19_po.py" />
       <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
@@ -711,19 +723,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test17_log.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test17_log.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test19_po.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test17_log.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test11_register.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test19_po.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test17_log.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in test14_new_tab.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in test13_cart.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test12_add_duck.py" />
       </list>
     </recent_temporary>
   </component>
@@ -741,24 +753,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 15h 51m 20s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 15h 52m 33s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 15h 53m 16s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 15h 56m 09s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 16h 01m 31s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 16h 02m 10s.xml">
-      <configuration name="py.test in test17_log.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 16h 03m 54s.xml">
       <configuration name="py.test in test17_log.py" configurationId="tests" />
     </history-entry>
@@ -770,6 +764,24 @@
     </history-entry>
     <history-entry file="py_test_in_test17_log_py - 2016.12.20 at 16h 09m 32s.xml">
       <configuration name="py.test in test17_log.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 19m 25s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 19m 46s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 21m 05s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 22m 16s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 23m 45s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test19_po_py - 2016.12.21 at 23h 24m 27s.xml">
+      <configuration name="py.test in test19_po.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -828,16 +840,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="102" />
-          <folding>
-            <element signature="e#17#30#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test11_register.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1200,16 +1202,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test13_cart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="37" column="33" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="45" />
-          <folding>
-            <element signature="e#17#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test12_add_duck.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1233,10 +1225,28 @@
     <entry file="file://$PROJECT_DIR$/test17_log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test13_cart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="48" selection-end-column="63" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test19_po.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="98" column="34" selection-start-line="98" selection-start-column="31" selection-end-line="98" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
